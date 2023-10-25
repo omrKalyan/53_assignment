@@ -1,0 +1,20 @@
+sadfdfsadf
+asdfkhasfdklh
+asdflkhasjkldfhalsd
+asdflkasdkjfhasd
+fasdfhkjhafsd
+
+root@ip-172-31-19-22 k8s-specifications]# kubectl get po -o wide
+NAME                      READY   STATUS    RESTARTS   AGE     IP               NODE                                              NOMINATED NODE   READINESS GATES
+db-b54cd94f4-4zfl8        1/1     Running   0          7m28s   192.168.96.242   ip-172-31-30-26.ap-southeast-1.compute.internal   <none>           <none>
+redis-868d64d78-nzlqx     1/1     Running   0          7m28s   192.168.77.112   ip-172-31-25-30.ap-southeast-1.compute.internal   <none>           <none>
+result-5d57b59f4b-gg29q   1/1     Running   0          7m28s   192.168.96.245   ip-172-31-30-26.ap-southeast-1.compute.internal   <none>           <none>
+vote-94849dc97-t7zks  
+Qn 3:
+adsfljasd;fkjl
+asdfasf;dkjcd94f4-4zfl8        1/1     Running   0          6m22s
+redis-868d64d78-nzlqx     1/1     Running   0          6m22s
+result-5d57b59f4b-gg29q   1/1     Running   0          6m22s
+vote-94849dc97-mtmnh      1/1     Running   0          6m22s
+worker-dd46d7584-rxbfj    1/1     Running   0          6m22s
+[root@i
